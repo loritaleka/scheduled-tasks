@@ -3,6 +3,7 @@
 *.env
 secrets.txt
 credentials.json
+birthdays.csv
 
 # Python
 __pycache__/
